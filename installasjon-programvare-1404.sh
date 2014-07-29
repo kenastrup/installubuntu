@@ -18,4 +18,9 @@ npm config set prefix ~/npm
 git config --global user.name "Ken Are Astrup"
 git config --global user.email "ken.astrup@gmail.com" 
 
+
+
+sudo apt-get install ruby
+sudo gem install compass
+
 sudo shutdown -r now
