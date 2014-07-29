@@ -12,4 +12,7 @@ sudo apt-get install aurora-intellij-idea-13.1.1
 
 sudo apt-get install aurora-node-0.10.25
 
+mkdir ~/npm
+npm config set prefix ~/npm
+
 sudo shutdown -r now
