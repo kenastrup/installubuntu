@@ -15,4 +15,7 @@ sudo apt-get install aurora-node-0.10.25
 mkdir ~/npm
 npm config set prefix ~/npm
 
+git config --global user.name "Ken Are Astrup"
+git config --global user.email "ken.astrup@gmail.com" 
+
 sudo shutdown -r now
