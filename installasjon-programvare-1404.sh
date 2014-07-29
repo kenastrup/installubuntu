@@ -27,4 +27,6 @@ git config --global url.https://.insteadOf git://
 sudo apt-get install ruby
 sudo gem install compass
 
+sudo apt-get install compizconfig-settings-manager
+
 sudo reboot now
